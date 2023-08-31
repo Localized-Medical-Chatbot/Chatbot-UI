@@ -1,6 +1,6 @@
 body {
   font-family: "Open Sans", sans-serif;
-  background: url("../img/body.png") no-repeat center center fixed;
+  background: url("../img/body.jpg") no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -8,8 +8,8 @@ body {
 
 .widget {
   display: none;
-  width: 75%;
-  /* right: 15px; */
+  width: 52%;
+  right: 40px;
   height: 85%;
   bottom: 5%;
   position: fixed;
